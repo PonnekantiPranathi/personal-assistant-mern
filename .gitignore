@@ -1,0 +1,33 @@
+
+# dependencies
+personal-assistant/frontend/node_modules
+personal-assistant/frontend/.pnp
+personal-assistant/frontend/.pnp.js
+personal-assistant/frontend/README.md 
+
+personal-assistant/backend/node_modules
+personal-assistant/backend/build 
+personal-assistant/backend/.env
+
+personal-assistant/backend/personalassistant-u9sf-d462017a80cb.json
+
+personal-assistant/logs
+personal-assistant/*.log
+
+# testing
+personal-assistant/frontend/coverage
+
+# production
+personal-assistant/frontend/build
+
+# misc
+personal-assistant/frontend/.DS_Store
+personal-assistant/frontend/.env.local
+personal-assistant/frontend/.env.development.local
+personal-assistant/frontend/.env.test.local
+personal-assistant/frontend/.env.production.local
+
+personal-assistant/frontend/npm-debug.log*
+personal-assistant/frontend/yarn-debug.log*
+personal-assistant/frontend/yarn-error.log*
+
